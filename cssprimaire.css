@@ -1,0 +1,13 @@
+/* Feuille de style en cascade primaire*/
+
+/*Zone d'import de style Css de la librarie perso CSSlibrary*/
+
+@import url("CSSlibrary/bouton.css");
+@import url("CSSlibrary/avatar.css");
+@import url("CSSlibrary/card.css");
+@import url("CSSlibrary/");
+
+
+
+
+/*Zone de style particulier au site*/
