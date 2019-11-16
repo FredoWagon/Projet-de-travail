@@ -2,6 +2,14 @@
 
 .bouton {
 	font-family: helvetica;
-	background-color: red;
+	background-color: black;
+	background: linear-gradient(160deg, rgba(230,230,230,0.9) 40%, rgba(240,240,240,1) 60%),
+	            url("");
 	text-decoration: none;
+	border-radius: 0.5px;
+	padding: 10px;
+}
+
+.bouton:hover {
+	border-radius: 10px;
 }

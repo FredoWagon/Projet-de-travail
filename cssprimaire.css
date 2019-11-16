@@ -11,3 +11,27 @@
 
 
 /*Zone de style particulier au site*/
+
+body {
+	background-color: rgb(230,230,230);
+}
+
+
+/*Style de class*/
+
+.banner {
+	display: flex;
+	justify-content: space-around;
+	align-items: center;
+	font-size: 20px;
+
+}
+
+.bchild1 {
+	flex: 0 0 300px;
+}
+
+.bchild {
+	flex: 0 0 auto;
+	align-self: flex-end;
+}
